@@ -1,0 +1,1 @@
+alert("Hello my name is Kenechukwu Ezeoke\n I am 6 feet 1 inches\n I am from Nigeria")
